@@ -1,0 +1,634 @@
+2018-03-15 15:20:28,453 [Thread-7:3136] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2018-03-15 15:20:28,463 [Thread-8:5044] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2018-03-15 15:20:28,473 [Thread-9:10528] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2018-03-15 15:20:28,486 [Thread-11:7024] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2018-03-15 15:31:13,891 [Thread-7:6356] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2018-03-15 15:31:13,907 [Thread-8:9276] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2018-03-15 15:31:13,924 [Thread-9:4132] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2018-03-15 15:31:13,937 [Thread-10:5396] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2018-03-15 15:38:05,611 [Thread-3:10156] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2018-03-15 15:38:05,622 [Thread-4:10952] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2018-03-15 15:38:05,634 [Thread-5:2332] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2018-03-15 15:38:05,657 [Thread-6:8504] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2018-03-15 15:38:08,430 [Thread-8:11564] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2018-03-15 15:38:08,476 [Thread-10:10408] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2018-03-15 15:38:08,476 [Thread-9:10944] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2018-03-15 15:38:08,476 [Thread-11:10756] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2018-03-15 15:43:41,095 [Thread-3:4412] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2018-03-15 15:43:41,127 [Thread-4:1264] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2018-03-15 15:43:41,140 [Thread-5:11864] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2018-03-15 15:43:41,154 [Thread-6:11720] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2018-03-15 15:43:49,078 [Thread-9:10688] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2018-03-15 15:43:49,088 [Thread-10:4344] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2018-03-15 15:43:49,098 [Thread-11:10340] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2018-03-15 15:43:49,171 [Thread-12:11728] [django.request:170] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2018-03-15 15:54:02,055 [Thread-3:6468] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-03-15 16:14:15,911 [Thread-3:4152] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-03-15 16:14:15,996 [Thread-4:12028] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-03-15 23:06:45,223 [Thread-4:10864] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-03-15 23:06:45,282 [Thread-5:13800] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-03-15 23:06:45,361 [Thread-8:9700] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-03-15 23:06:45,470 [Thread-11:8692] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-03-15 23:06:48,575 [Thread-14:8700] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-03-15 23:06:48,710 [Thread-26:10492] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-03-16 15:17:29,046 [Thread-3:4404] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-03-16 15:17:29,128 [Thread-4:8760] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-03-16 15:17:29,536 [Thread-5:6984] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-03-16 15:17:35,253 [Thread-6:3752] [django.request:170] [base:get_response] [WARNING]- Not Found: /index/
+2018-03-16 17:08:07,381 [Thread-3:6036] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-03-16 17:08:07,486 [Thread-4:11564] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-03-16 17:08:10,388 [Thread-5:8736] [django.request:170] [base:get_response] [WARNING]- Not Found: /index/
+2018-03-16 17:11:04,174 [Thread-3:9348] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-03-16 17:11:04,276 [Thread-4:12088] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-03-16 17:14:41,819 [Thread-13:2156] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/blog/article/add/
+Traceback (most recent call last):
+  File "E:\Django\django_project\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\options.py", line 616, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 110, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\options.py", line 1516, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 34, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 110, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 30, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 145, in inner
+    return func(*args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\options.py", line 1467, in changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\options.py", line 1078, in save_model
+    obj.save()
+  File "E:\Django\django_project\lib\site-packages\django\db\models\base.py", line 710, in save
+    force_update=force_update, update_fields=update_fields)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\base.py", line 738, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\base.py", line 822, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\base.py", line 861, in _do_insert
+    using=using, raw=raw)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\manager.py", line 127, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\query.py", line 920, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\sql\compiler.py", line 974, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\Django\django_project\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "E:\Django\django_project\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "E:\Django\django_project\lib\site-packages\django\db\utils.py", line 97, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "E:\Django\django_project\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "E:\Django\django_project\lib\site-packages\django\db\backends\mysql\base.py", line 124, in execute
+    return self.cursor.execute(query, args)
+  File "E:\Django\django_project\lib\site-packages\pymysql\cursors.py", line 165, in execute
+    result = self._query(query)
+  File "E:\Django\django_project\lib\site-packages\pymysql\cursors.py", line 321, in _query
+    conn.query(q)
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 860, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 1061, in _read_query_result
+    result.read()
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 1349, in read
+    first_packet = self.connection._read_packet()
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 1018, in _read_packet
+    packet.check_error()
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 384, in check_error
+    err.raise_mysql_exception(self._data)
+  File "E:\Django\django_project\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+IntegrityError: (1048, u"Column 'user_id' cannot be null")
+2018-03-16 17:15:12,299 [Thread-20:9448] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/blog/article/add/
+Traceback (most recent call last):
+  File "E:\Django\django_project\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\options.py", line 616, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 110, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\options.py", line 1516, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 34, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 110, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 30, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 145, in inner
+    return func(*args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\options.py", line 1467, in changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\options.py", line 1078, in save_model
+    obj.save()
+  File "E:\Django\django_project\lib\site-packages\django\db\models\base.py", line 710, in save
+    force_update=force_update, update_fields=update_fields)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\base.py", line 738, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\base.py", line 822, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\base.py", line 861, in _do_insert
+    using=using, raw=raw)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\manager.py", line 127, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\query.py", line 920, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\sql\compiler.py", line 974, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\Django\django_project\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "E:\Django\django_project\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "E:\Django\django_project\lib\site-packages\django\db\utils.py", line 97, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "E:\Django\django_project\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "E:\Django\django_project\lib\site-packages\django\db\backends\mysql\base.py", line 124, in execute
+    return self.cursor.execute(query, args)
+  File "E:\Django\django_project\lib\site-packages\pymysql\cursors.py", line 165, in execute
+    result = self._query(query)
+  File "E:\Django\django_project\lib\site-packages\pymysql\cursors.py", line 321, in _query
+    conn.query(q)
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 860, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 1061, in _read_query_result
+    result.read()
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 1349, in read
+    first_packet = self.connection._read_packet()
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 1018, in _read_packet
+    packet.check_error()
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 384, in check_error
+    err.raise_mysql_exception(self._data)
+  File "E:\Django\django_project\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+IntegrityError: (1048, u"Column 'user_id' cannot be null")
+2018-03-16 17:18:33,190 [Thread-38:11900] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/blog/article/add/
+Traceback (most recent call last):
+  File "E:\Django\django_project\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\options.py", line 616, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 110, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\options.py", line 1516, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 34, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 110, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 30, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 145, in inner
+    return func(*args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\options.py", line 1467, in changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\options.py", line 1078, in save_model
+    obj.save()
+  File "E:\Django\django_project\lib\site-packages\django\db\models\base.py", line 710, in save
+    force_update=force_update, update_fields=update_fields)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\base.py", line 738, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\base.py", line 822, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\base.py", line 861, in _do_insert
+    using=using, raw=raw)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\manager.py", line 127, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\query.py", line 920, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\sql\compiler.py", line 974, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\Django\django_project\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "E:\Django\django_project\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "E:\Django\django_project\lib\site-packages\django\db\utils.py", line 97, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "E:\Django\django_project\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "E:\Django\django_project\lib\site-packages\django\db\backends\mysql\base.py", line 124, in execute
+    return self.cursor.execute(query, args)
+  File "E:\Django\django_project\lib\site-packages\pymysql\cursors.py", line 165, in execute
+    result = self._query(query)
+  File "E:\Django\django_project\lib\site-packages\pymysql\cursors.py", line 321, in _query
+    conn.query(q)
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 860, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 1061, in _read_query_result
+    result.read()
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 1349, in read
+    first_packet = self.connection._read_packet()
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 1018, in _read_packet
+    packet.check_error()
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 384, in check_error
+    err.raise_mysql_exception(self._data)
+  File "E:\Django\django_project\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+IntegrityError: (1048, u"Column 'user_id' cannot be null")
+2018-03-16 17:21:20,244 [Thread-44:11004] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/blog/article/add/
+Traceback (most recent call last):
+  File "E:\Django\django_project\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\options.py", line 616, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 110, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\options.py", line 1516, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 34, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 110, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 30, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 145, in inner
+    return func(*args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\options.py", line 1467, in changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\options.py", line 1078, in save_model
+    obj.save()
+  File "E:\Django\django_project\lib\site-packages\django\db\models\base.py", line 710, in save
+    force_update=force_update, update_fields=update_fields)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\base.py", line 738, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\base.py", line 822, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\base.py", line 861, in _do_insert
+    using=using, raw=raw)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\manager.py", line 127, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\query.py", line 920, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\sql\compiler.py", line 974, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\Django\django_project\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "E:\Django\django_project\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "E:\Django\django_project\lib\site-packages\django\db\utils.py", line 97, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "E:\Django\django_project\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "E:\Django\django_project\lib\site-packages\django\db\backends\mysql\base.py", line 124, in execute
+    return self.cursor.execute(query, args)
+  File "E:\Django\django_project\lib\site-packages\pymysql\cursors.py", line 165, in execute
+    result = self._query(query)
+  File "E:\Django\django_project\lib\site-packages\pymysql\cursors.py", line 321, in _query
+    conn.query(q)
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 860, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 1061, in _read_query_result
+    result.read()
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 1349, in read
+    first_packet = self.connection._read_packet()
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 1018, in _read_packet
+    packet.check_error()
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 384, in check_error
+    err.raise_mysql_exception(self._data)
+  File "E:\Django\django_project\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+IntegrityError: (1048, u"Column 'user_id' cannot be null")
+2018-03-16 23:08:57,767 [Thread-2:5868] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "E:\Django\django_project\lib\site-packages\django\core\handlers\base.py", line 119, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "E:\Django\django_project\lib\site-packages\django\core\urlresolvers.py", line 366, in resolve
+    for pattern in self.url_patterns:
+  File "E:\Django\django_project\lib\site-packages\django\core\urlresolvers.py", line 402, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "E:\Django\django_project\lib\site-packages\django\core\urlresolvers.py", line 396, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "f:\python27\Lib\importlib\__init__.py", line 37, in import_module
+    __import__(name)
+  File "E:\Django\blog_project\blog_project\urls.py", line 27, in <module>
+    url(r'^', include('blog.urls')),
+  File "E:\Django\django_project\lib\site-packages\django\conf\urls\__init__.py", line 33, in include
+    urlconf_module = import_module(urlconf_module)
+  File "f:\python27\Lib\importlib\__init__.py", line 37, in import_module
+    __import__(name)
+ImportError: No module named urls
+2018-03-16 23:08:58,688 [Thread-3:14312] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "E:\Django\django_project\lib\site-packages\django\core\handlers\base.py", line 108, in get_response
+    response = middleware_method(request)
+  File "E:\Django\django_project\lib\site-packages\django\middleware\common.py", line 74, in process_request
+    if (not urlresolvers.is_valid_path(request.path_info, urlconf) and
+  File "E:\Django\django_project\lib\site-packages\django\core\urlresolvers.py", line 647, in is_valid_path
+    resolve(path, urlconf)
+  File "E:\Django\django_project\lib\site-packages\django\core\urlresolvers.py", line 522, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "E:\Django\django_project\lib\site-packages\django\core\urlresolvers.py", line 366, in resolve
+    for pattern in self.url_patterns:
+  File "E:\Django\django_project\lib\site-packages\django\core\urlresolvers.py", line 402, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "E:\Django\django_project\lib\site-packages\django\core\urlresolvers.py", line 396, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "f:\python27\Lib\importlib\__init__.py", line 37, in import_module
+    __import__(name)
+  File "E:\Django\blog_project\blog_project\urls.py", line 27, in <module>
+    url(r'^', include('blog.urls')),
+  File "E:\Django\django_project\lib\site-packages\django\conf\urls\__init__.py", line 33, in include
+    urlconf_module = import_module(urlconf_module)
+  File "f:\python27\Lib\importlib\__init__.py", line 37, in import_module
+    __import__(name)
+ImportError: No module named urls
+2018-03-16 23:25:41,346 [Thread-9:2464] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-03-16 23:42:00,158 [Thread-2:9824] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\Django\django_project\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Django\blog_project\blog\views.py", line 15, in index
+    return render(request,'index.html',locals())
+  File "E:\Django\django_project\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\Django\django_project\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\Django\django_project\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\base.py", line 209, in render
+    return self._render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\Django\django_project\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\loader_tags.py", line 135, in render
+    return compiled_parent._render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\Django\django_project\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\Django\django_project\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\loader_tags.py", line 151, in render
+    template = context.template.engine.get_template(template)
+  File "E:\Django\django_project\lib\site-packages\django\template\engine.py", line 167, in get_template
+    template, origin = self.find_template(template_name, dirs)
+  File "E:\Django\django_project\lib\site-packages\django\template\engine.py", line 146, in find_template
+    raise TemplateDoesNotExist(name)
+TemplateDoesNotExist: ad.html
+2018-03-16 23:51:58,839 [Thread-2:14008] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\Django\django_project\lib\site-packages\django\core\handlers\base.py", line 119, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "E:\Django\django_project\lib\site-packages\django\core\urlresolvers.py", line 366, in resolve
+    for pattern in self.url_patterns:
+  File "E:\Django\django_project\lib\site-packages\django\core\urlresolvers.py", line 402, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "E:\Django\django_project\lib\site-packages\django\core\urlresolvers.py", line 396, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "f:\python27\Lib\importlib\__init__.py", line 37, in import_module
+    __import__(name)
+  File "E:\Django\blog_project\blog_project\urls.py", line 18, in <module>
+    from blog.views import index
+  File "E:\Django\blog_project\blog\views.py", line 12, in <module>
+    from forms import *
+ImportError: No module named forms
+2018-03-16 23:52:45,280 [Thread-2:10276] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\Django\django_project\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Django\blog_project\blog\views.py", line 58, in index
+    return render(request, 'index.html', locals())
+  File "E:\Django\django_project\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\Django\django_project\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\Django\django_project\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\base.py", line 208, in render
+    with context.bind_template(self):
+  File "f:\python27\Lib\contextlib.py", line 17, in __enter__
+    return self.gen.next()
+  File "E:\Django\django_project\lib\site-packages\django\template\context.py", line 235, in bind_template
+    updates.update(processor(self.request))
+  File "E:\Django\blog_project\blog\views.py", line 20, in global_setting
+    SITE_URL = settings.SITE_URL
+  File "E:\Django\django_project\lib\site-packages\django\conf\__init__.py", line 49, in __getattr__
+    return getattr(self._wrapped, name)
+AttributeError: 'Settings' object has no attribute 'SITE_URL'
+2018-03-16 23:53:54,589 [Thread-2:1888] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\Django\django_project\lib\site-packages\django\core\handlers\base.py", line 119, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "E:\Django\django_project\lib\site-packages\django\core\urlresolvers.py", line 366, in resolve
+    for pattern in self.url_patterns:
+  File "E:\Django\django_project\lib\site-packages\django\core\urlresolvers.py", line 402, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "E:\Django\django_project\lib\site-packages\django\core\urlresolvers.py", line 396, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "f:\python27\Lib\importlib\__init__.py", line 37, in import_module
+    __import__(name)
+  File "E:\Django\blog_project\blog_project\urls.py", line 28, in <module>
+    url(r'^', include('blog.urls')),
+  File "E:\Django\django_project\lib\site-packages\django\conf\urls\__init__.py", line 33, in include
+    urlconf_module = import_module(urlconf_module)
+  File "f:\python27\Lib\importlib\__init__.py", line 37, in import_module
+    __import__(name)
+ImportError: No module named urls
+2018-03-16 23:54:51,733 [Thread-2:11640] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\Django\django_project\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Django\blog_project\blog\views.py", line 58, in index
+    return render(request, 'index.html', locals())
+  File "E:\Django\django_project\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\Django\django_project\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\Django\django_project\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\base.py", line 208, in render
+    with context.bind_template(self):
+  File "f:\python27\Lib\contextlib.py", line 17, in __enter__
+    return self.gen.next()
+  File "E:\Django\django_project\lib\site-packages\django\template\context.py", line 235, in bind_template
+    updates.update(processor(self.request))
+  File "E:\Django\blog_project\blog\views.py", line 20, in global_setting
+    SITE_URL = settings.SITE_URL
+  File "E:\Django\django_project\lib\site-packages\django\conf\__init__.py", line 49, in __getattr__
+    return getattr(self._wrapped, name)
+AttributeError: 'Settings' object has no attribute 'SITE_URL'
+2018-03-16 23:58:41,404 [Thread-6:1980] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\Django\django_project\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Django\blog_project\blog\views.py", line 58, in index
+    return render(request, 'index.html', locals())
+  File "E:\Django\django_project\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\Django\django_project\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\Django\django_project\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\base.py", line 208, in render
+    with context.bind_template(self):
+  File "f:\python27\Lib\contextlib.py", line 17, in __enter__
+    return self.gen.next()
+  File "E:\Django\django_project\lib\site-packages\django\template\context.py", line 235, in bind_template
+    updates.update(processor(self.request))
+  File "E:\Django\blog_project\blog\views.py", line 20, in global_setting
+    SITE_URL = settings.SITE_URL
+  File "E:\Django\django_project\lib\site-packages\django\conf\__init__.py", line 49, in __getattr__
+    return getattr(self._wrapped, name)
+AttributeError: 'Settings' object has no attribute 'SITE_URL'
+2018-03-16 23:58:52,227 [Thread-2:7448] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\Django\django_project\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Django\blog_project\blog\views.py", line 58, in index
+    return render(request, 'index.html', locals())
+  File "E:\Django\django_project\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\Django\django_project\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\Django\django_project\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\base.py", line 208, in render
+    with context.bind_template(self):
+  File "f:\python27\Lib\contextlib.py", line 17, in __enter__
+    return self.gen.next()
+  File "E:\Django\django_project\lib\site-packages\django\template\context.py", line 235, in bind_template
+    updates.update(processor(self.request))
+  File "E:\Django\blog_project\blog\views.py", line 26, in global_setting
+    archive_list = Article.objects.distinct_date()
+AttributeError: 'Manager' object has no attribute 'distinct_date'
+2018-03-17 00:03:54,216 [Thread-2:6940] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\Django\django_project\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Django\blog_project\blog\views.py", line 58, in index
+    return render(request, 'index.html', locals())
+  File "E:\Django\django_project\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\Django\django_project\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\Django\django_project\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\base.py", line 209, in render
+    return self._render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\Django\django_project\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\loader_tags.py", line 135, in render
+    return compiled_parent._render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\Django\django_project\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\Django\django_project\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\Django\django_project\lib\site-packages\django\template\defaulttags.py", line 217, in render
+    nodelist.append(node.render(context))
+  File "E:\Django\django_project\lib\site-packages\django\template\defaulttags.py", line 507, in render
+    six.reraise(*exc_info)
+  File "E:\Django\django_project\lib\site-packages\django\template\defaulttags.py", line 493, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\Django\django_project\lib\site-packages\django\core\urlresolvers.py", line 579, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "E:\Django\django_project\lib\site-packages\django\core\urlresolvers.py", line 496, in _reverse_with_prefix
+    (lookup_view_s, args, kwargs, len(patterns), patterns))
+NoReverseMatch: Reverse for 'article' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+2018-03-17 14:04:57,446 [Thread-3:11432] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-03-17 14:35:39,411 [Thread-7:11608] [django.request:170] [base:get_response] [WARNING]- Not Found: /index/
+2018-03-17 14:35:42,059 [Thread-8:11716] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "E:\Django\django_project\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\sites.py", line 254, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\utils\decorators.py", line 110, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\sites.py", line 222, in inner
+    if not self.has_permission(request):
+  File "E:\Django\django_project\lib\site-packages\django\contrib\admin\sites.py", line 162, in has_permission
+    return request.user.is_active and request.user.is_staff
+  File "E:\Django\django_project\lib\site-packages\django\utils\functional.py", line 226, in inner
+    self._setup()
+  File "E:\Django\django_project\lib\site-packages\django\utils\functional.py", line 359, in _setup
+    self._wrapped = self._setupfunc()
+  File "E:\Django\django_project\lib\site-packages\django\contrib\auth\middleware.py", line 22, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "E:\Django\django_project\lib\site-packages\django\contrib\auth\middleware.py", line 10, in get_user
+    request._cached_user = auth.get_user(request)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\auth\__init__.py", line 174, in get_user
+    user = backend.get_user(user_id)
+  File "E:\Django\django_project\lib\site-packages\django\contrib\auth\backends.py", line 93, in get_user
+    return UserModel._default_manager.get(pk=user_id)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\manager.py", line 127, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\query.py", line 328, in get
+    num = len(clone)
+  File "E:\Django\django_project\lib\site-packages\django\db\models\query.py", line 144, in __len__
+    self._fetch_all()
+  File "E:\Django\django_project\lib\site-packages\django\db\models\query.py", line 965, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "E:\Django\django_project\lib\site-packages\django\db\models\query.py", line 238, in iterator
+    results = compiler.execute_sql()
+  File "E:\Django\django_project\lib\site-packages\django\db\models\sql\compiler.py", line 840, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\Django\django_project\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "E:\Django\django_project\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "E:\Django\django_project\lib\site-packages\django\db\utils.py", line 97, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "E:\Django\django_project\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "E:\Django\django_project\lib\site-packages\django\db\backends\mysql\base.py", line 124, in execute
+    return self.cursor.execute(query, args)
+  File "E:\Django\django_project\lib\site-packages\pymysql\cursors.py", line 165, in execute
+    result = self._query(query)
+  File "E:\Django\django_project\lib\site-packages\pymysql\cursors.py", line 321, in _query
+    conn.query(q)
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 860, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 1061, in _read_query_result
+    result.read()
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 1349, in read
+    first_packet = self.connection._read_packet()
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 1018, in _read_packet
+    packet.check_error()
+  File "E:\Django\django_project\lib\site-packages\pymysql\connections.py", line 384, in check_error
+    err.raise_mysql_exception(self._data)
+  File "E:\Django\django_project\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+InternalError: (1054, u"Unknown column 'blog_user.url' in 'field list'")
